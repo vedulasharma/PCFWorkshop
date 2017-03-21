@@ -8,19 +8,15 @@ If you have never used git before this will help you get setup and logged in.
 
 Go to https://github.com/
 
-Create a personal account
+Create a personal account.  Its free as long as you don't need to have private repositories.
 
-#### Step 1: Login
+#### Step 2: Login
 
-Open https://github.homedepot.com
+Login using the credentials you used above.
 
-Login using your Production LDAP.
+For issues with login please use SLACK. There are others who will be more than happy to help.
 
-If you get an error logging in, then you may need to use the [Access Request Portal (ARP)](https://accessrequestportal.homedepot.com) to request access to the GG_SCM_Access LDAP group.
-
-For issues with ARP please use the #security slack channel.
-
-#### Step 2: Install a git client.
+#### Step 3: Install a git client.
 
 The DevTools team has put together a solid [Getting Started](https://github.homedepot.com/Homedepot/Getting_Started/wiki) wiki.  
 
