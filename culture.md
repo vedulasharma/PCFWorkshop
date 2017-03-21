@@ -2,14 +2,14 @@
 
 # TOPIC 1 - Overview
 
-#### We are in the midst of a transformation to how we build software at The Home Depot.
+#### We are in the midst of a transformation to how we build software.
 
 * Social Coding
   * Slack, GitHub
 * Empowering Developers
   * Pivotal Cloud Foundry
   * Self-service models
-  * Removing "orange tape"
+  * Removing all obstacles
 * Engineering Excellence
   * XP Principles
   * 12 Factor Apps
