@@ -4,6 +4,12 @@
 
 If you have never used git before this will help you get setup and logged in.
 
+#### Step 1: Create an account
+
+Go to https://github.com/
+
+Create a personal account
+
 #### Step 1: Login
 
 Open https://github.homedepot.com
