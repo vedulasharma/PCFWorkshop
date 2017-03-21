@@ -18,7 +18,7 @@ For issues with login please use SLACK. There are others who will be more than h
 
 #### Step 3: Install a git client.
 
-Go to [Git](https://github.com/vedulasharma/PCFWorkshop.wiki.git) wiki.  
+Go to [Git](https://github.com/vedulasharma/PCFWorkshop/wiki/Git) wiki.  
 
 Although you can certainly use the Desktop client or the command line interface, the feedback so far has been that using the command line client will help you to gain a much deeper understanding of git.
 
