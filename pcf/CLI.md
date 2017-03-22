@@ -44,6 +44,6 @@ For our example, we will structure our organization into a **development** space
 1. Verify the **development** space exists using the `cf spaces` command.
 2. Create a **acceptance** space using the `cf create-space` command.
   * If you are curious about the required arguments, remember the `-h` flag to get help.
-2. Run a `cf spaces` to confirm that your new spaces were created. (You should have a development and acceptance space)
+3. Run a `cf spaces` to confirm that your new spaces were created. (You should have a development and acceptance space)
 
 [Next Section - Deploying ->](DeployingBasics.md)
