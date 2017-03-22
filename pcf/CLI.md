@@ -16,7 +16,7 @@ The preferred method of interacting with Cloud Foundry is the command line inter
 
 ## Installing CLI and Logging In
 
-If you don't have the CLI already installed, you can download and install it from [here](https://apps.run-at.homedepot.com/tools). You will see a Getting Started section at the bottom on the page which we are about to cover here.
+If you don't have the CLI already installed, you can download and install it from [here](https://docs.cloudfoundry.org/cf-cli/install-go-cli.html). You will see a Getting Started section at the bottom on the page which we are about to cover here.
 
 Some key commands that you need to get familiar with that will make your experience with Cloud Foundry easier.
 
