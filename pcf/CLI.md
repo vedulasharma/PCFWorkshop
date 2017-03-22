@@ -15,7 +15,7 @@ The preferred method of interacting with Cloud Foundry is the command line inter
 
 ## Installing CLI and Logging In
 
-If you don't have the CLI already installed, you can download and install it from [here](https://docs.cloudfoundry.org/cf-cli/install-go-cli.html). You will see a Getting Started section at the bottom on the page which we are about to cover here.
+If you don't have the CLI already installed, you can download and install it from [here](https://docs.cloudfoundry.org/cf-cli/install-go-cli.html).
 
 Some key commands that you need to get familiar with that will make your experience with Cloud Foundry easier.
 
@@ -29,7 +29,7 @@ Some key commands that you need to get familiar with that will make your experie
   * This allows you to specify an organization and/or space you would like to work in.  
 
 ### Exercise
-1. Log into the AT PCF environment - the API host is `api.run-at.homedepot.com`.
+1. Log into your PCF environment - the API host is `api.run.pivotal.io`. 
 2. Run a `cf target` to confirm that you are in the organization that you created earlier.  
   1. If you are already part of another organization, use `cf target` to target the organization you created earlier.
 
