@@ -54,7 +54,8 @@ cleardb          spark, boost*, amp*, shock*                                    
 cloudamqp        lemur, tiger*, bunny*, rabbit*, panda*                          Managed HA RabbitMQ servers in the cloud
 ```
 2. Based on the marketplace results, we have three MySQL plans (listed as, "cleardb" in the results) available to use - **spark, boost*, amp*, shock***.  Let us use the **spark** plan to create a MySQL instance using the `cf create-service` command. 
-  * Try to look for the command that will give you a description of each of the options. There is also a short hand for this command.  You can use the help command to discover it.
+  * Try to look for the command that will give you a description of each of the options. 
+  * There is also a short hand for creating a service.  You can use the help command to discover it.
 3. Confirm that your service instance is now available by running `cf services`.
   * Notice that is is not bound to any application yet.  We will be doing that next.
 
