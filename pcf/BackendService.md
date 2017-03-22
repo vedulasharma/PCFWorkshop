@@ -4,7 +4,7 @@
 
 ## Overview
 
-In this exercise, we will deploy a simple Spring Boot based application and attach it to a MySQL instance.  The application provides information about cities.  For purposes of the class, we have already compiled the application; however, if you are interested in the source, it is part of this workshop repo _add repo link_.  
+In this exercise, we will deploy a simple Spring Boot based application and attach it to a MySQL instance.  The application provides information about cities.  For purposes of the class, we have already compiled the application.  
 
 Key commands you will use in this Section
 
@@ -31,7 +31,7 @@ You will hear the word **service** used often going forward.  This word can have
 ### Exercise
 
 1. Be sure you are targeted to your **development** space.
-2. Download the [cities-services.jar](https://maven.artifactory.homedepot.com/artifactory/libs-release-local/cities-service/cities-service/cities-service/cities-service-cities-service.jar).  
+2. You should have the cities-services.jar, if you have cloned this repo.  
 3. Deploy the cities-services application
   * Prepend your application name with your user id. Example: `cf push yourname-cities-services -p cities-services.jar`
   * Since you are deploying a binary artifact, you will need to provide the path to the jar file using the `-p` flag.
@@ -53,8 +53,8 @@ p-mongodb        development                                                    
 p-mysql          pre-existing-plan, 10mb-plan, 50mb-plan                         MySQL databases on demand and testing
 p-redis          shared-vm, dedicated-vm                                         Redis service to provide a key-value store
 ```
-2. Based on the marketplace results, we have three MySQL plans available to use - **pre-existing-plan, 10mb-plan, 50mb-plan**.  Let us use the **10mb-plan** plan to create a MySQL instance using the `cf create-service` command.
-  * There is also a short hand for this command.  You can use the help command to discover it.
+2. Based on the marketplace results, we have three MySQL plans (listed as, "cleardb" in the results) available to use - **spark, boost*, amp*, shock***.  Let us use the **spark** plan to create a MySQL instance using the `cf create-service` command. 
+  * Try to look for the command that will give you a description of each of the options. There is also a short hand for this command.  You can use the help command to discover it.
 3. Confirm that your service instance is now available by running `cf services`.
   * Notice that is is not bound to any application yet.  We will be doing that next.
 
