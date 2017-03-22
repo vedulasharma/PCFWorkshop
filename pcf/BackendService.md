@@ -49,9 +49,9 @@ We will be using the managed MySQL service provided to you on Cloud Foundry for 
   * You should see something like below
 ```
 service          plans                                                           description
-p-mongodb        development                                                     MongoDB service for application development and testing
-p-mysql          pre-existing-plan, 10mb-plan, 50mb-plan                         MySQL databases on demand and testing
-p-redis          shared-vm, dedicated-vm                                         Redis service to provide a key-value store
+cedexisradar     free-community-edition                                          Free Website and Mobile App Performance Reports
+cleardb          spark, boost*, amp*, shock*                                     Highly available MySQL for your Apps.
+cloudamqp        lemur, tiger*, bunny*, rabbit*, panda*                          Managed HA RabbitMQ servers in the cloud
 ```
 2. Based on the marketplace results, we have three MySQL plans (listed as, "cleardb" in the results) available to use - **spark, boost*, amp*, shock***.  Let us use the **spark** plan to create a MySQL instance using the `cf create-service` command. 
   * Try to look for the command that will give you a description of each of the options. There is also a short hand for this command.  You can use the help command to discover it.
