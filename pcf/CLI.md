@@ -8,7 +8,7 @@ The preferred method of interacting with Cloud Foundry is the command line inter
 
 ## Creating an Organization
 
-* Log into [apps.run-at.homedepot.com](https://apps.run-at.homedepot.com)
+* Log into [https://login.run.pivotal.io/](https://login.run.pivotal.io/)
   * **For all Cloud Foundry life cycles (NP and PR), you will use your PR LDAP user id and password, even though the prompts will say Email**.
   * You do not need any SAFE or ARP to access Cloud Foundry.
   * On the left side of the screen, you will see a header called **Orgs** under which is a link to **Create an org**.  
