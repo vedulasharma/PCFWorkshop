@@ -25,7 +25,7 @@ Key commands for interacting with applications
 
 ### Exercise
 
-As part of the workshop, we have provided a repo of sample applications.  If you have cloned the PCFWorkshop repo, you will find it as a folder, cf-hello-world-sample-apps.
+As part of the workshop, we have provided a repo of sample applications.  If you have cloned the PCFWorkshop repo, you will find it as a folder, cf-hello-world-sample-apps. If not, now is the time to test your "git" expertise. :-)
 
 1. `cd` into the `cf-hello-world-sample-apps` directory.
 2. List the directories (ls -l or dir). What do you see?  What do you think is in each directory?
