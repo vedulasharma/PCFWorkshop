@@ -25,14 +25,10 @@ Key commands for interacting with applications
 
 ### Exercise
 
-As part of the workshop, we have provided a repo of sample applications.  Please clone the following repo to your local desktop and follow the direction below.
+As part of the workshop, we have provided a repo of sample applications.  If you have cloned the PCFWorkshop repo, you will find it as a folder, cf-hello-world-sample-apps.
 
-1. Clone the Sample app repo to your local workspace
-  ```
-  git clone https://github.homedepot.com/cloud-foundry/cf-hello-world-sample-apps.git
-  ```
-2. `cd` into the `cf-hello-world-sample-apps` directory.
-3. List the directories (ls -l or dir). What do you see?  What do you think is in each directory?
+1. `cd` into the `cf-hello-world-sample-apps` directory.
+2. List the directories (ls -l or dir). What do you see?  What do you think is in each directory?
 3. `cd` into the `node` directory.
 4. Be sure you are targeting your **development** space in Cloud Foundry.
 5. Run a `cf push <application name> -m 512m --random-route`
@@ -51,8 +47,8 @@ As part of the workshop, we have provided a repo of sample applications.  Please
   requested state: started
   instances: 1/1
   usage: 1G x 1 instances
-  urls: <app-name>-vanquishable-earwig.apps-at.homedepot.com
-  last uploaded: Mon May 4 21:31:31 UTC 2015
+  urls: <app-name>-myopathic-mentalism.cfapps.io/
+  last uploaded: Fri March 31 21:31:31 UTC 2017
   stack: cflinuxfs2
   ```
 7. Repeat steps 2-5 for another language in the sample applications. (See Step #3 above)
