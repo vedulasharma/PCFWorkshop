@@ -1,4 +1,4 @@
-[Section 3 - Deploying a Backend Application (db, backend app)](BackendService.md) | [PCF Home](README.md) | [Section 6 - User Provided Services (UPS) and Environment Variables](userprovidedservice.md)
+[Section 3 - Deploying a Backend Application (db, backend app)](BackendService.md) | [PCF Home](README.md) | [Section 5 - User Provided Services (UPS) and Environment Variables](userprovidedservice.md)
 
 # Section 4 - Manifest And Buildpacks
 
