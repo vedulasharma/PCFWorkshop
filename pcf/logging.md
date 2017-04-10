@@ -1,6 +1,6 @@
-[Section 6 - User Provided Services (UPS) and Environment Variables](userprovidedservice.md) | [PCF Home](README.md)
+[Section 5 - User Provided Services (UPS) and Environment Variables](userprovidedservice.md) | [PCF Home](README.md)
 
-# Section 7 - Log and Log Management (and NOT Monitoring)
+# Section 6 - Log and Log Management (and NOT Monitoring)
 
 **Note - as of 02/03/2016, there is a known issue with application logs not being received by THD Splunk.  Multiple Home Depot teams and Pivotal are working to resolve - please refer to the #pcf-splunk channel for updates.**
 
