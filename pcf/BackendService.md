@@ -88,4 +88,4 @@ Your service instance information, which contained the database, user id, and pa
 
 [Source code for citites-services microservice](https://github.com/krujos/pcf-workshop/tree/master/dev-experience/cities)
 
-[Next Section - Ready for Acceptance Testing (ie code promotion) ->](spaces.md)
+[Next Section - Manifest & Buildpacks (ie code deployment) ->](manifest.md)
