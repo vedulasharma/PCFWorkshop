@@ -1,4 +1,4 @@
-[Section 2 - Deploying and Scaling an Application](DeployingBasics.md) | [PCF Home](README.md) | [Section 4 - Ready for Acceptance Testing ](spaces.md)
+[Section 2 - Deploying and Scaling an Application](DeployingBasics.md) | [PCF Home](README.md) | [Section 4 - Manifest And Buildpacks ](manifest.md)
 
 # Section 3 - Deploying a Backend Microservice Application (DB & Application)
 
