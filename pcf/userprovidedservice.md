@@ -83,4 +83,4 @@ Add in all the information to the existing manifest for the cities-ui applicatio
 
 [Source code for citites-ui app](https://github.com/krujos/pcf-workshop/tree/master/dev-experience/cities)
 
-[Section 7 - Log and Log Management (and NOT Monitoring) ->](logging.md)
+[Section 6 - Log and Log Management (and NOT Monitoring) ->](logging.md)
