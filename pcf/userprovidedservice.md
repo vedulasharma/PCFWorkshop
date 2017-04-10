@@ -45,7 +45,7 @@ We need to be able to connect our UI to our cities-services endpoint.  Since the
 
 ### Exercise
 1. Be sure you are targeted to your **development** space.
-2. Download the [cities-ui.jar](https://maven.artifactory.homedepot.com/artifactory/libs-release-local/cities-ui/cities-ui/cities-ui/cities-ui-cities-ui.jar).
+2. Look for the cities-ui.jar in this repo.
 3. Deploy the cities-ui application.
   * Your application will fail to start - remember we need to tell it about our API service.
 4. Our cities-ui application is looking for a user provided service containing two parameters: **uri** and **tag**.  
