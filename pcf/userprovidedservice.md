@@ -1,6 +1,6 @@
-[Section 5 - Manifest And Buildpacks](manifest.md) | [PCF Home](README.md) | [Section 7 - Log and Log Management (and NOT Monitoring)](logging.md)
+[Section 4 - Manifest And Buildpacks](manifest.md) | [PCF Home](README.md) | [Section 6 - Log and Log Management (and NOT Monitoring)](logging.md)
 
-# Section 6 - User Provided Services (UPS) and Environment Variables
+# Section 5 - User Provided Services (UPS) and Environment Variables
 
 ## Overview
 
