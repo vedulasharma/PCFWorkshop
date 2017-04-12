@@ -1,4 +1,4 @@
-[Topic 3 - GitHub & Git Basics](../git.md) | [Home](../README.md) | [Topic 5 - Production Deployment](../production_deployment.md)
+[Topic 3 - GitHub & Git Basics](../git.md) | [Home](../README.md) 
 
 # Topic 4 - Cloud Foundry
 
